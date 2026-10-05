@@ -1,5 +1,7 @@
 # Dialog Fit — Omarchy shell plugin
 
+![Dialog Fit before and after](preview.png)
+
 Some apps open floating dialogs tiny under Hyprland on native Wayland. The classic case is
 Blender's file browser, created at exactly 320x240 and ignoring its stored size
 ([blender#162315](https://projects.blender.org/blender/blender/issues/162315)).
